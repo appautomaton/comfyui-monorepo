@@ -1,0 +1,9 @@
+[submodule "custom_nodes/ComfyUI-Crystools"]
+	url = https://github.com/crystian/ComfyUI-Crystools.git
+	path = custom_nodes/ComfyUI-Crystools
+[submodule "custom_nodes/ComfyUI-QwenASR"]
+	url = https://github.com/1038lab/ComfyUI-QwenASR.git
+	path = custom_nodes/ComfyUI-QwenASR
+[submodule "custom_nodes/ComfyUI-QwenTTS"]
+	url = https://github.com/1038lab/ComfyUI-QwenTTS.git
+	path = custom_nodes/ComfyUI-QwenTTS
