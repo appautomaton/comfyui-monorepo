@@ -10,6 +10,7 @@ __pycache__/
 !custom_nodes/ComfyUI-Crystools/
 !custom_nodes/ComfyUI-QwenASR/
 !custom_nodes/ComfyUI-QwenTTS/
+!custom_nodes/ComfyUI-QwenTTS-Extensions/
 extra_model_paths.yaml
 /.vs
 .vscode/
